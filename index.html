@@ -1,28 +1,41 @@
-<html>
-<head>
-<title>Keystone engine</title>
-<link rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-57x57.png" />
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114.png" />
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72.png" />
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144.png" />
-<link rel="apple-touch-icon-precomposed" sizes="60x60" href="apple-touch-icon-60x60.png" />
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="apple-touch-icon-120x120.png" />
-<link rel="apple-touch-icon-precomposed" sizes="76x76" href="apple-touch-icon-76x76.png" />
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="apple-touch-icon-152x152.png" />
-<link rel="icon" type="image/png" href="favicon-196x196.png" sizes="196x196" />
-<link rel="icon" type="image/png" href="favicon-96x96.png" sizes="96x96" />
-<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
-<link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
-<link rel="icon" type="image/png" href="favicon-128.png" sizes="128x128" />
-<meta name="application-name" content="&nbsp;"/>
-<meta name="msapplication-TileColor" content="#FFFFFF" />
-<meta name="msapplication-TileImage" content="mstile-144x144.png" />
-<meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
-<meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
-<meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
-<meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
-</head>
-<body>
-Under construction, stay tuned!
-</body>
-</html>
+---
+layout: default
+---
+
+<b>Keystone</b> is a lightweight multi-platform, multi-architecture assembler framework.
+
+<p>
+Highlight features:
+
+<ul>
+<li>Multi-architecture, with support for Arm, Arm64 (AArch64/Armv8), Hexagon, Mips, PowerPC, Sparc, SystemZ, & X86 (include 16/32/64bit).</li>
+
+<li>Clean/simple/lightweight/intuitive architecture-neutral API.</li>
+
+<li>Implemented in C/C++ languages, with bindings for Python available.</li>
+
+<li>Native support for Windows & *nix (with Mac OSX, Linux, *BSD & Solaris confirmed).</li>
+
+<li>Thread-safe by design.</li>
+
+<li>Distributed under dual license - with LGPL for open source projects.</li>
+</ul>
+</p>
+
+<hr>
+<div class="posts">
+  {% for post in site.tags.news %}
+    <article class="post">
+
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+
+      <div class="date">
+      {{ post.date | date: "%B %e, %Y" }}
+      </div>
+
+      <div class="entry">
+        {{ post.content }}
+      </div>
+    </article>
+  {% endfor %}
+</div>
