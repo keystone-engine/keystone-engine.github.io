@@ -11,7 +11,7 @@ While Keystone reuses a part LLVM as its core (with quite a few of changes to ad
 
 The section below highlights the areas where Keystone shines.
 
-- **Framework**: *llvm-mc* is a tool, but not a framework. Therefore, it is very tricky to build your own assembler tools on of LLVM, while this is the main purpose of Keystone.
+- **Framework**: *llvm-mc* is a tool, but not a framework. Therefore, it is very tricky to build your own assembler tools on of LLVM, while this is the main purpose of Keystone. Keystone's API makes it easy to handle errors, report internal status of its core or change compilation mode at runtime, etc.
 
 - **Lightweight**: Keystone is much more lightweight than LLVM because we stripped all the subsystems that do not involve in assembler. As a result, Keystone is more than 10 times smaller in size and in memory consumption. Initial verson of Keystone takes around 30 seconds to compile on a laptop, while LLVM needs 20 minutes to build.
 
