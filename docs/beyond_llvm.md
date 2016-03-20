@@ -21,4 +21,4 @@ The section below highlights the areas where Keystone shines.
 
 - **Bindings**: As a framework, Keystone supports multiple bindings on top of the core, starting with Python (more bindings will be added later). This makes it easy to be adopted by developers.
 
-With all that said, LLVM is an awesome project, which Keystone was born from. However, Keystone is not just LLVM, but offering more because it has been designed & implemented especially for disassembling/reversing to answer the demand of security community.
+With all that said, LLVM is an awesome project, which Keystone was born from. However, Keystone is not just LLVM, but offering more because it has been designed & implemented to be an independent framework.
