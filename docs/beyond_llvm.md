@@ -15,10 +15,10 @@ The section below highlights the areas where Keystone shines.
 
 - **Lightweight**: Keystone is much more lightweight than LLVM because we stripped all the subsystems that do not involve in assembler. As a result, Keystone is more than 10 times smaller in size and in memory consumption. Initial verson of Keystone takes around 30 seconds to compile on a laptop, while LLVM needs 20 minutes to build.
 
-- **Flexible**: LLVM's assembler is much more restricted. For example, it only accepts assembly in LLVM syntax. On the contrary, Keystone is going to support all kind of input, ranging from Nasm, Masm, etc.
+- **Flexibility**: LLVM's assembler is much more restricted. For example, it only accepts assembly in LLVM syntax. On the contrary, Keystone is going to support all kind of input, ranging from Nasm, Masm, etc.
 
 - **Capability**: LLVM is for compiling & linking, so (understandably) some of its technical choices are not inline with an independent assembler like Keystone. For example, LLVM always put code and data in separate sections. However, it is very common for assembly to mix code and data in the same section (think about shellcode). Keystone is made to handle this kind of input very well.
 
-- **Bindings**: As a framework, Keystone supports multiple bindings on top of the core, starting with Python (more bindings will be added later). This makes it easy to be adopted by developers.
+- **Binding**: As a framework, Keystone supports multiple bindings on top of the core, starting with Python (more bindings will be added later). This makes it easy to be adopted by developers.
 
 With all that said, LLVM is an awesome project, which Keystone was born from. However, Keystone is not just LLVM, but offering more because it has been designed & implemented to be an independent framework.
