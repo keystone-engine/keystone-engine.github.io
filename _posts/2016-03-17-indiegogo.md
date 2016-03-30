@@ -12,6 +12,12 @@ Keystone involves a lot of hardwork, however. Therefore, we hope to have communi
 
 Get behind Keystone project, so together we can solve the problem of missing an assembler framework once, and for all: [https://igg.me/at/keystone/](https://igg.me/at/keystone/).
 
+**Update**: if you do not want to use IndieGogo, we accept donation on Paypal & Bitcoin. All the perks from IndieGogo still apply.
+
+- Paypal address: <font color="blue">keystone.engine -at- gmail.com</font>.
+
+- Bitcoin: <font color="#E65C00">1fGz2GYSjiJxUoACpsHXcGmaAhbEDTuWi</font> ([link](bitcoin:1fGz2GYSjiJxUoACpsHXcGmaAhbEDTuWi?message=donation))
+
 Find how we will update information on the project below.
 
 - Keystone now has a [mailing list](http://www.freelists.org/list/keystone-engine). Subscribe to the list for updated information & do conversation
