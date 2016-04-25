@@ -19,6 +19,7 @@ avatar: /images/keystone.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: keystone.engine@gmail.com
+  github: keystone-engine/keystone
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: keystone_engine
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
