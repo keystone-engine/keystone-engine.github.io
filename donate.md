@@ -22,7 +22,7 @@ To thank your support, we will send you some cool stickers like below.
 </center>
 
 <br>
-For the donation amount of $128, we can send you a Tshirt of choice with Keystone logo to show our appreciation.
+For the donation with amount of $128 or above, we can send you a Tshirt of choice with Keystone logo to show our appreciation.
 
 <img src="/images/keystone-tshirt-white.png" alt="White Tshirt with black logo" width="250" height="250" />
 <img src="/images/keystone-tshirt-black.png" alt="Black Tshirt with white logo" width="250"  height="250" />
