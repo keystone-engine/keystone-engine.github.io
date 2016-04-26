@@ -182,7 +182,7 @@ Sample code [test2.py](/samples/test2.py) demonstrates X86 AT&T support.
 
 This tutorial does not explain all the API of Keystone yet.
 
-- See a C sample, see code in directory [docs/sample/](https://github.com/keystone-engine/keystone/tree/master/docs/sample) in the Keystone source.
+- For C sample, see code in directory [samples/](https://github.com/keystone-engine/keystone/tree/master/samples) in Keystone source.
 
-- For Python sample, see code in directory [bindings/python/](https://github.com/keystone-engine/keystone/tree/master/bindings/python) in the Keystone source.
+- For Python sample, see code in directory [bindings/python/](https://github.com/keystone-engine/keystone/tree/master/bindings/python) in Keystone source.
 
