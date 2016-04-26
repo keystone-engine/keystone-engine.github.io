@@ -119,7 +119,7 @@ By default, Keystone accepts X86 assembly in Intel syntax. Keystone has an API n
 {% endhighlight %}
 
 <br>
-Sample code *test2.c* demonstrates X86 AT&T support [is available for download](/samples/test1.zip).
+Sample code [test2.c](/samples/test1.zip) demonstrates X86 AT&T support.
 
 ---
 
