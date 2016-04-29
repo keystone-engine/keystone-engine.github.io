@@ -131,7 +131,7 @@ The following code presents the same example as above, but in Python, to compile
  from keystone import *
 
  # separate assembly instructions by ; or \n
- CODE = "INC ecx; DEC edx"
+ CODE = b"INC ecx; DEC edx"
  
  try:
    # Initialize engine in X86-32bit mode
