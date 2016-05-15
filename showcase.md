@@ -6,13 +6,15 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **3** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **4** following products (listed in no particular order).
 
 - [Radare2](https://github.com/radare/radare2): Unix-like reverse engineering framework and commandline tools.
 
 - [GEF](https://github.com/hugsy/gef): GDB Enhanced Features.
 
 - [Ropper](http://scoding.de/ropper/): Rop gadget and binary information tool.
+
+- [Cemu](https://github.com/hugsy/cemu): Cheap EMUlator based on Keystone and Unicorn engines.
 
 ---
 
