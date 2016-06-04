@@ -18,7 +18,7 @@ In our knowledge, Keystone has been used by **6** following products (listed in 
 
 - [Pwnypack](https://github.com/edibledinos/pwnypack): Certified Edible Dinosaurs official CTF toolkit.
 
-- [Keystone.JS](http://alexaltea.github.io/keystone.js/): A Emscripten-port of Keystone for JavaScript.
+- [Keystone.JS](http://alexaltea.github.io/keystone.js/): Emscripten-port of Keystone for JavaScript.
 
 ---
 
