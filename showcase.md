@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **6** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **7** following products (listed in no particular order).
 
 - [Radare2](https://github.com/radare/radare2): Unix-like reverse engineering framework and commandline tools.
 
@@ -19,6 +19,8 @@ In our knowledge, Keystone has been used by **6** following products (listed in 
 - [Pwnypack](https://github.com/edibledinos/pwnypack): Certified Edible Dinosaurs official CTF toolkit.
 
 - [Keystone.JS](http://alexaltea.github.io/keystone.js/): Emscripten-port of Keystone for JavaScript.
+
+- [Usercorn](https://github.com/lunixbochs/usercorn): Versatile kernel+system+userspace emulator.
 
 ---
 
