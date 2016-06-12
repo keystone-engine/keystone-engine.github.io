@@ -22,6 +22,8 @@ In our knowledge, Keystone has been used by **7** following products (listed in 
 
 - [Usercorn](https://github.com/lunixbochs/usercorn): Versatile kernel+system+userspace emulator.
 
+- [x64dbg](http://x64dbg.com): An open-source x64/x32 debugger for windows.
+
 ---
 
 Please [let us know](/contact/), so we can put you in the list above, if you are also using Keystone, either:
