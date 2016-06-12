@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **7** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **8** following products (listed in no particular order).
 
 - [Radare2](https://github.com/radare/radare2): Unix-like reverse engineering framework and commandline tools.
 
