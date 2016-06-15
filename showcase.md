@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **8** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **9** following products (listed in no particular order).
 
 - [Radare2](https://github.com/radare/radare2): Unix-like reverse engineering framework and commandline tools.
 
@@ -23,6 +23,9 @@ In our knowledge, Keystone has been used by **8** following products (listed in 
 - [Usercorn](https://github.com/lunixbochs/usercorn): Versatile kernel+system+userspace emulator.
 
 - [x64dbg](http://x64dbg.com): An open-source x64/x32 debugger for windows.
+
+- [Liberation](https://github.com/iOSCheaters/Liberation): a next generation code injection library for iOS cheaters everywhere.
+
 
 ---
 
