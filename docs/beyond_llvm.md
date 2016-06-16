@@ -19,6 +19,8 @@ The section below highlights the areas where Keystone shines.
 
 - **Capability**: LLVM is for compiling & linking, so (understandably) some of its technical choices are not inline with an independent assembler like Keystone. For example, LLVM always put code and data in separate sections. However, it is very common for assembly to mix code and data in the same section (think about shellcode). Keystone is made to handle this kind of input very well.
 
+- **Undocumented instructions**: Keystone is extended to support quite a lot of undocumented instructions for X86. These instructions are never documented in Intel ISA manual, but known to work consistently on multiple CPU generations.
+
 - **Binding**: As a framework, Keystone supports multiple bindings on top of the core, starting with Python (more bindings will be added later). This makes it easy to be adopted by developers.
 
 With all that said, LLVM is an awesome project, which Keystone was born from. However, Keystone is not just LLVM, but offering more because it has been designed & implemented to be an independent framework.
