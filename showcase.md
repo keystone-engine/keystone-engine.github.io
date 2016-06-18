@@ -28,7 +28,7 @@ In our knowledge, Keystone has been used by **11** following products (listed in
 
 - [Strongdb](https://github.com/cx9527/strongdb): GDB plugin for Android debugging.
 
-- [Assembly_bot](https://github.com/mbikovitsky/AssemblyBot): Telegram bot for assembling and disassembling on-the-go.
+- [AssemblyBot](https://github.com/mbikovitsky/AssemblyBot): Telegram bot for assembling and disassembling on-the-go.
 
 
 ---
