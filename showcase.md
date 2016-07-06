@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **12** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **13** following products (listed in no particular order).
 
 - [Radare2](https://github.com/radare/radare2): Unix-like reverse engineering framework and commandline tools.
 
@@ -31,6 +31,8 @@ In our knowledge, Keystone has been used by **12** following products (listed in
 - [AssemblyBot](https://github.com/mbikovitsky/AssemblyBot): Telegram bot for assembling and disassembling on-the-go.
 
 - [demovfuscator](https://github.com/kirschju/demovfuscator): Deobfuscator for movfuscated binaries.
+
+- [Webasm](https://github.com/pmarkowsky/webasm): A simple web based tool for working with assembly language.
 
 ---
 
