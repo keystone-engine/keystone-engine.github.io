@@ -32,7 +32,7 @@ In our knowledge, Keystone has been used by **13** following products (listed in
 
 - [demovfuscator](https://github.com/kirschju/demovfuscator): Deobfuscator for movfuscated binaries.
 
-- [Webasm](https://github.com/pmarkowsky/webasm): A simple web based tool for working with assembly language.
+- [Dash](https://github.com/pmarkowsky/dash): A simple web based tool for working with assembly language.
 
 ---
 
