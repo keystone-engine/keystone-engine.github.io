@@ -6,7 +6,9 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **15** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **16** following products (listed in no particular order).
+
+- [Keypatch](https://keystone-engine/keypatch): IDA Pro plugin for code assembling & binary patching.
 
 - [Radare2](https://github.com/radare/radare2): Unix-like reverse engineering framework and commandline tools.
 
