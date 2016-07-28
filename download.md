@@ -61,6 +61,7 @@ NOTE: this installer is self-contain, so you do not need to install the core eng
 This will install 32-bit Keystone module into your corresponding Python edition.
 
 <a class="download" href="https://github.com/keystone-engine/keystone/releases/download/{{ post.title }}/keystone-{{ post.title }}-python-win64.msi" title="Download Python module for Python, Win64">Python-64</a>
+
 ---
 
 {% endfor %}
