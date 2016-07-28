@@ -54,13 +54,13 @@ This package contains:
 
 ### Python module for Windows - Binaries <img src="/images/python.png" height="28" width="28"> <img src="/images/windows.png" height="28" width="28">
 
-<a class="download" href="https://github.com/keystone-engine/keystone/releases/download/{{ post.title }}/keystone-{{ post.title }}-python-win32.msi" title="Download Python module for Python, Win32">Python Win32</a>
+<a class="download" href="https://github.com/keystone-engine/keystone/releases/download/{{ post.title }}/keystone-{{ post.title }}-python-win32.msi" title="Download Python module for Python, Win32">Python-32</a>
 
 NOTE: this installer is self-contain, so you do not need to install the core engine above.
 
 This will install 32-bit Keystone module into your corresponding Python edition.
 
-<a class="download" href="https://github.com/keystone-engine/keystone/releases/download/{{ post.title }}/keystone-{{ post.title }}-python-win64.msi" title="Download Python module for Python, Win64">Python Win64</a>
+<a class="download" href="https://github.com/keystone-engine/keystone/releases/download/{{ post.title }}/keystone-{{ post.title }}-python-win64.msi" title="Download Python module for Python, Win64">Python-64</a>
 ---
 
 {% endfor %}
