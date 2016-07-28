@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **16** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **17** following products (listed in no particular order).
 
 - [Keypatch](https://keystone-engine/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -39,6 +39,8 @@ In our knowledge, Keystone has been used by **16** following products (listed in
 - [ARMSCGen](https://github.com/alexpark07/ARMSCGen): ARM Shellcode Generator.
 
 - [Asm_Ops](https://github.com/neoz/asm_ops): Assembler for IDA Pro (IDA Plugin).
+
+- [Binch](https://github.com/tunz/binch): A lightweight ELF binary patch tool.
 
 ---
 
