@@ -56,9 +56,9 @@ This package contains:
 
 <a class="download" href="https://github.com/keystone-engine/keystone/releases/download/{{ post.title }}/keystone-{{ post.title }}-python-win32.msi" title="Download Python module for Python, Win32">Python-32</a>
 
-NOTE: this installer is self-contain, so you do not need to install the core engine above.
+NOTE: since this installer is self-contain, no need to install the core engine above.
 
-This will install Keystone module into your corresponding Python edition (Windows 32-bit or 64-bit).
+This will install Keystone module into your corresponding Python edition.
 
 <a class="download" href="https://github.com/keystone-engine/keystone/releases/download/{{ post.title }}/keystone-{{ post.title }}-python-win64.msi" title="Download Python module for Python, Win64">Python-64</a>
 
