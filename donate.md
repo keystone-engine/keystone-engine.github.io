@@ -32,7 +32,13 @@ For the donation with amount of $128 or above, we can send you a Tshirt of choic
 <img src="/images/keystone-tshirt-black-c.png" alt="Black Tshirt with colored logo" width="250"  height="250" />
 
 <br>
-Or you can choose either a mug or a headcap if you do not want Tshirt.
+Or you can choose a collection of USB thumdrivers below.
 
-<img src="/images/keystone-mug.png" alt="Mug with colored logo" width="150"  height="150" />
-<img src="/images/keystone-cap.png" alt="Headcap with colored logo" width="150"  height="150" />
+<img src="/images/trilogy-usb3.jpg" alt="USB Thumbdrivers of 8GB" height="300" />
+<img src="/images/trilogy-usb5.jpg" alt="USB Thumbdrivers of 8GB" height="300" />
+
+<br>
+You can also choose either a mug or a headcap.
+
+<img src="/images/keystone-mug.png" alt="Mug with colored logo" height="250" />
+<img src="/images/keystone-cap.png" alt="Headcap with colored logo" height="250" />
