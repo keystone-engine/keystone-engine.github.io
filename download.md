@@ -25,7 +25,7 @@ The latest version of the source code can be retrieved at our [Git repository](h
 This package contains:
 
 - The complete source code for the Keystone framework.
-- Bindings for Python, NodeJS, Ruby, Go & Rust.
+- Bindings for Python, NodeJS, Ruby, Go, Rust, Haskell & OCaml.
 - A simple tool named "kstool" to compile input assembly instructions.
 - A sample programs.
 
