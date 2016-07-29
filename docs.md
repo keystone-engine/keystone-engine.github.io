@@ -28,6 +28,13 @@ To program in Python, you need to install Python binding after you already insta
 
 NOTE: If you already installed the precompiled Python module from section 2 above, skip this part.
 
+To install Python binding from PyPi on \*nix platforms, do:
+{% highlight bash %}
+$ sudo pip install keystone-engine
+{% endhighlight %}
+
+NOTE: PyPi installation actually downloads & compiles the Keystone core, so you need to have *CMake* installed in your machine beforehand.
+
 To install Python binding from source on \*nix platforms, do:
 {% highlight bash %}
 $ cd bindings/python
