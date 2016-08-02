@@ -11,7 +11,7 @@ See [this introduction](/keypatch0) for the motivation behind this tool.
 <img src="/keypatch/keypatch_anim.gif" height="400" />
 </p>
 
-The full source code will be released later, after our [Blackhat USA 2016 talk](http://blackhat.com).
+The full source code will be released later, after our [Blackhat USA 2016 talk](https://www.blackhat.com/us-16/briefings.html#keystone-engine-next-generation-assembler-framework).
 
 Keypatch consists of 2 tools inside.
 
