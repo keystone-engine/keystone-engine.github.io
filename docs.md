@@ -65,4 +65,5 @@ Find in tutorials below how to write your Keystone tools using your favorite pro
 
 ## Miscellaneous
 
+- [Blackhat USA 2016 slides](/docs/BHUSA2016-keystone.pdf): Techinical details on Keystone design & implementation.
 - [Beyond LLVM](/docs/beyond_llvm.html): A quick technical comparison of Keystone and LLVM.
