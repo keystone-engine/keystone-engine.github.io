@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **17** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **19** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -41,6 +41,10 @@ In our knowledge, Keystone has been used by **17** following products (listed in
 - [Asm_Ops](https://github.com/neoz/asm_ops): Assembler for IDA Pro (IDA Plugin).
 
 - [Binch](https://github.com/tunz/binch): A lightweight ELF binary patch tool.
+
+- [Metame](https://github.com/a0rtega/metame): Metamorphic code engine for arbitrary executables.
+
+- [Patchkit](https://github.com/lunixbochs/patchkit): A powerful binary patching toolkit.
 
 ---
 
