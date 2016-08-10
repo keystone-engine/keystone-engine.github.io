@@ -113,6 +113,12 @@ $ sudo pip install keystone-engine
 
 #### A3. Linux
 
+First of all, be sure that your machine already have Cmake installed. On Ubuntu, you can install Cmake with:
+
+{% highlight bash %}
+$ sudo apt-get install cmake
+{% endhighlight %}
+
 If your system is Linux 32-bit, you can do the same steps as in MacOS above.
 
 In case you are on 64-bit Linux, you need to cross compile Keystone to 32-bit. Since version 0.9.1, Keystone supports `lib32` option to make this easy. After building the core, install Python module as in [Python documentation](https://github.com/keystone-engine/keystone/blob/master/bindings/python/README.md).
