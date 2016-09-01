@@ -107,9 +107,9 @@ If you prefer to compile from source, just use MSVC 32-bit & follow the instruct
 
 Install the core & Python module of Keystone with the following command:
 
-{% highlight bash %}
+```
 $ sudo pip install keystone-engine
-{% endhighlight %}
+```
 
 #### A3. Linux
 
@@ -139,11 +139,22 @@ After having multilib dependencies, run the following commands in the source dir
 $ mkdir build
 $ cd build
 $ ../make-share.sh lib32 lib_only
-$ cd bindings/python
-$ sudo make install
 {% endhighlight %}
 
-Finally, copy the 32-bit binaries at `build/llvm/lib/libkeystone.so.*` to the Python directory of IDA Pro, for example at `/opt/IDAPro6.4/python/`.
+Then copy Python bindings to IDA's Python directory, together with disutils from your distro's Python to IDA's Python, like following. (Use your actual IDA directory instead)
+
+{% highlight bash %}
+$ sudo cp -r bindings/python/keystone /opt/IDAPro6.8/python/
+$ sudo cp -r /usr/lib/python2.7/distutils /opt/IDAPro6.8/python/
+{% endhighlight %}
+
+Finally, copy the 32-bit libraries of Keystone to the Python directory of IDA Pro, like following.
+
+{% highlight bash %}
+$ sudo mkdir -p /opt/IDAPro6.4/python/lib/python2.7/dist-packages/keystone/
+$ sudo cp build/llvm/lib/libkeystone.so.* /opt/IDAPro6.8/python/lib/python2.7/dist-packages/keystone/
+{% endhighlight %}
+
+These complicated workarounds are necessary because IDA in Linux 64 bit doesn't use the system's Python.
 
 Done? Now go back to [section 2](#2-install) & install Keypatch for IDA Pro. Enjoy!
-
