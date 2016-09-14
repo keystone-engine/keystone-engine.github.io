@@ -16,6 +16,10 @@ You are supposed to already have Keypatch installed for your IDA Pro.
 - Enter a new assembly instruction to the Assembly control.
 - Click button `Patch` to change the original instruction to the new instruction.
 
+<p align="center">
+<img src="/keypatch/keypatch_patcher.png" height="480" />
+</p>
+
 
 ### 2. Use **Fill Range** tool
 
@@ -27,6 +31,9 @@ You are supposed to already have Keypatch installed for your IDA Pro.
   also enter a string in hexcode format, such as "0x90", "90, 91", "AAh", etc.
 - Click button `Patch` to fill the selected range with the input above.
 
+<p align="center">
+<img src="/keypatch/keypatch_fillrange.png" height="480" />
+</p>
 
 ### 3. Revert (undo) the last patching
 
@@ -50,6 +57,10 @@ You are supposed to already have Keypatch installed for your IDA Pro.
   appearing in the "Encode" control. Note that unlike "Patcher" & "Fill Range"
   tools above, this does not modify the binary.
 
+<p align="center">
+<img src="/keypatch/keypatch_assembler.png" height="400" />
+</p>
+
 
 ### 6. Check for new update of Keypatch
 
@@ -58,6 +69,10 @@ You are supposed to already have Keypatch installed for your IDA Pro.
   (released by Keypatch developers) are reported.
 - Click button "Open Keypatch Website" if you want to visit the Keypatch
   homepage to download the latest version.
+
+<p align="center">
+<img src="/keypatch/keypatch_update.png" height="180" />
+</p>
 
 
 ### 7. Verify the current versions of Keypatch & Keystone engine
