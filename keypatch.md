@@ -4,17 +4,17 @@ title: Keypatch
 permalink: /keypatch/
 ---
 
-Keypatch is a IDA Pro plugin for [Keystone Assembler Engine](http://keystone-engine.org).
+Keypatch is a plugin of [IDA Pro](https://www.hex-rays.com/products/ida/) for [Keystone Assembler Engine](http://keystone-engine.org).
 See [this introduction](/keypatch0) for the motivation behind this tool.
 
-[Keypatch v1.0](https://github.com/keystone-engine/keypatch/archive/1.0.zip) is available from our [Github repo](https://github.com/keystone-engine/keypatch).
+[Keypatch v2.0](https://github.com/keystone-engine/keypatch/archive/2.0.zip) is available from our [Github repo](https://github.com/keystone-engine/keypatch).
 
-Keypatch consists of 2 tools inside.
+Keypatch consists of 3 tools inside.
 
-- **Patcher**: this allows you to type in assembly to directly patch your binary.
+- **Patcher** & **Fill Range**: these allow you to type in assembly to directly patch your binary.
 - **Assembler**: this interactive tool let you enter assembly & get back instruction encoding.
 
-Keypatch is confirmed to work on IDA Pro version 6.4, 6.8 & 6.9, but should work flawlessly on older versions.
+Keypatch is confirmed to work on IDA Pro version 6.4, 6.6, 6.8, 6.9, 6.95 but should work flawlessly on older versions.
 If you find any issues, please [report](http://keystone-engine.org/contact).
 
 
@@ -25,7 +25,7 @@ If you find any issues, please [report](http://keystone-engine.org/contact).
 Sometimes we want to patch the binary while analyzing it in IDA, but unfortunately the built-in asssembler of IDA Pro is not adequate.
 
 - Only X86 assembler is available. Support for all other architectures is totally missing.
-- The X86 assembler is buggy and fails to understand many modern Intel instructions.
+- The X86 assembler is not in a good shape, either: it cannot understand many modern Intel instructions.
 - This tool is not friendly and without many options that would make the life of reverser easier.
 
 Keypatch was developed to solve this problem. Thanks to the power of [Keystone](http://keystone-engine.org), our plugin offers some nice features.
@@ -43,7 +43,7 @@ Keypatch can be the missing piece in your toolset of reverse engineering.
 
 ### 2. Install
 
-- Keypatch requires Keystone, so you have to install Keystone core & Python binding for Python 2.7 from [keystone-engine.org/download](http://keystone-engine.org/download). Or follow the steps in the [appendix section](#appendix-install-keystone-for-ida-pro).
+- Install Keystone core & Python binding for Python 2.7 from [keystone-engine.org/download](http://keystone-engine.org/download). Or follow the steps in the [appendix section](#appendix-install-keystone-for-ida-pro).
 
 - Copy file `keypatch.py` to IDA Plugin folder, then restart IDA Pro to use Keypatch.
     - On Windows, the folder is at `C:\Program Files (x86)\IDA 6.9\plugins`
@@ -51,7 +51,7 @@ Keypatch can be the missing piece in your toolset of reverse engineering.
     - On Linux, the folder may be at `/opt/IDA/plugins/`
 
 `NOTE`
-- On Windows, if you get an error message from IDA about "fail to load the dynamic library", then your machine may miss the VC++ runtime library. Fix that by downloading & installing it from [Microsoft website](https://www.microsoft.com/en-gb/download/details.aspx?id=40784)
+- On Windows, if you get an error message from IDA about "fail to load the dynamic library", then your machine may miss the VC++ runtime library. Fix that by downloading & installing it from https://www.microsoft.com/en-gb/download/details.aspx?id=40784
 
 - On other \*nix platforms, the above error message means you do not have 32-bit Keystone installed yet. See [appendix section](#appendix-install-keystone-for-ida-pro) below for more instructions to fix this.
 
@@ -60,19 +60,28 @@ Keypatch can be the missing piece in your toolset of reverse engineering.
 
 ### 3. Usage
 
+- For a quick start, see [this tutorial](/keypatch/tutorial). For a complete description of all of the features of Keypatch, keep reading.
 - To patch your binary, press hotkey `CTRL+ALT+K` inside IDA to open **Keypatch Patcher** dialog.
     - The original assembly, encode & instruction size will be displayed in 3 controls at the top part of the form.
     - Choose the syntax, type new assembly instruction in the `Assembly` box (you can use IDA symbols).
     - Keypatch would *automatically* update the encoding in the `Encode` box while you are typing, without waiting for `ENTER` keystroke.
         - Note that you can type IDA symbols, and the raw assembly will be displayed in the `Fixup` control.
     - Press `ENTER` or click `Patch` to overwrite the current instruction with the new code, then *automatically* advance to the the next instruction.
-        - Note that when the new code is shorter than the original code, the extra bytes will be filled in with `NOPs` by default. Uncheck the choice `Padding extra bytes with NOPs` if this is not desired.
+        - Note that when size of the new code is different from the original code, Keypatch can pad until the next instruction boundary with NOPs opcode, so the code flow is intact. Uncheck the choice `NOPs padding until next instruction boundary` if this is undesired.
+        - By default, Keypatch appends the modified instruction with the information of the original code (before being patched). Uncheck the choice `Save original instructions in IDA comment` to disable this feature.
     - By default, the modification you made is only recorded in the IDA database. To apply these changes to the original binary (thus overwrite it), choose menu `Edit | Patch program | Apply patches to input file`.
 
 <p align="center">
 <img src="/keypatch/keypatch_patcher.png" height="460" />
 </p>
 
+- To fill a range of code with an instruction, select the range, then either press hotkey `CTRL+ALT+K`, or choose menu `Edit | Keypatch | Fill Range`.
+    - In the `Assembly` box, you can either enter assembly code, or raw hexcode. Some examples of acceptable raw hexcode are `90`, `aa bb`, `0xAA, 0xBB`.
+<p align="center">
+<img src="/keypatch/keypatch_fillrange.png" height="460" />
+</p>
+
+- To revert (undo) the last patching, choose menu `Edit | Keypatch | Undo last patching`.
 - To do some code assembling (without overwritting binary), open **Keypatch Assembler** from menu `Edit | Keypatch | Assembler`.
     - Choose the architecture, address, endian mode & syntax, then type assembly instruction in the `Assembly` box.
     - Keypatch would *automatically* update the encoding in the `Encode` box while you are typing, without waiting for `ENTER` keystroke.
@@ -80,6 +89,14 @@ Keypatch can be the missing piece in your toolset of reverse engineering.
 <p align="center">
 <img src="/keypatch/keypatch_assembler.png" height="400" />
 </p>
+
+- To check for new version of Keypatch, choose menu `Edit | Keypatch | Check for update`.
+- At any time, you can also access to all the above Keypatch functionalities just by right-click in IDA screen, and choose from the popup menu.
+
+<p align="center">
+<img src="/keypatch/keypatch_menupopup.png" height="300" />
+</p>
+
 
 
 --------------
