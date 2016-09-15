@@ -9,7 +9,7 @@ See [this introduction](/keypatch0) for the motivation behind this tool.
 
 [Keypatch v2.0.1](https://github.com/keystone-engine/keypatch/archive/2.0.1.zip) is available from our [Github repo](https://github.com/keystone-engine/keypatch).
 
-Keypatch consists of 3 tools inside.
+This offers 3 tools inside.
 
 - **Patcher** & **Fill Range**: these allow you to type in assembly to directly patch your binary.
 - **Assembler**: this interactive tool let you enter assembly & get back instruction encoding.
@@ -26,7 +26,7 @@ Sometimes we want to patch the binary while analyzing it in IDA, but unfortunate
 
 - Only X86 assembler is available. Support for all other architectures is totally missing.
 - The X86 assembler is not in a good shape, either: it cannot understand many modern Intel instructions.
-- This tool is not friendly and without many options that would make the life of reverser easier.
+- This tool is not friendly and without many options that would make reverser's life easier.
 
 Keypatch was developed to solve this problem. Thanks to the power of [Keystone](http://keystone-engine.org), our plugin offers some nice features.
 
