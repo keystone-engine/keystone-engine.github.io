@@ -71,7 +71,7 @@ You are supposed to already have Keypatch installed for your IDA Pro.
   homepage to download the latest version.
 
 <p align="center">
-<img src="/keypatch/keypatch_update.png" height="180" />
+<img src="/keypatch/keypatch_update.png" height="160" />
 </p>
 
 
