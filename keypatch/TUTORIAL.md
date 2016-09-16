@@ -41,6 +41,10 @@ You are supposed to already have Keypatch installed for your IDA Pro.
   IDA window, then choose from the popup menu `Keypatch | Undo last patching`
   to revert (undo) the last action.
 
+<p align="center">
+<img src="/keypatch/keypatch_menupopup.png" height="300" />
+</p>
+
 
 ### 4. Save the modification
 
