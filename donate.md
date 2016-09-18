@@ -10,7 +10,7 @@ Below is all the Keystone supporters who generously made donation (listed in no 
 - [4 project sponsors & 99 Indiegogo contributors](http://www.keystone-engine.org/indiegogo4)
 - Kyle Temkin
 - Joel Sandin
-- Mohamed Saher
+- Mohamed Saher (halsten)
 - Jonas Lejon
 - Alexei Bulazel
 - Pedro Ribeiro
