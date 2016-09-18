@@ -48,9 +48,9 @@ You are supposed to already have Keypatch installed for your IDA Pro.
 
 ### 4. Save the modification
 
-- After all the patching done in tutorial 1, 2, 3 above, save the result by choosing
+- After all the patching done in tutorial 1, 2, 3 above, save all the modifications by choosing
   menu `Edit | Patch program | Apply patches to input file`. Note that this action
-  really changes the binary, so be sure this is what you desire.
+  really changes the original binary, so be sure this is what you desire.
 
 
 ### 5. Use **Assembler** tool
