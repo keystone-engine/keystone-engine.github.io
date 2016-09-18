@@ -5,7 +5,7 @@ permalink: /keypatch/
 ---
 
 Keypatch is a plugin of [IDA Pro](https://www.hex-rays.com/products/ida/) for [Keystone Assembler Engine](http://keystone-engine.org).
-See [this introduction](/keypatch0) for the motivation behind this tool.
+See [this introduction](/keypatch0) for the motivation behind Keypatch, and [this slides](http://keystone-engine.org/keypatch/Keypatch-slides.pdf) for how it is implemented.
 
 [Keypatch v2.0.1](https://github.com/keystone-engine/keypatch/archive/2.0.1.zip) is available from our [Github repo](https://github.com/keystone-engine/keypatch).
 
