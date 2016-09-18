@@ -5,7 +5,20 @@ title: Donation
 
 ### Donation
 
-<br>
+Below is all the Keystone supporters who generously made donation (listed in no particular order).
+
+- [4 project sponsors & 99 Indiegogo contributors](http://www.keystone-engine.org/indiegogo4)
+- Kyle Temkin
+- Joel Sandin
+- Mohamed Saher
+- Jonas Lejon
+- Alexei Bulazel
+- Pedro Ribeiro
+- <a href="https://www.pelock.com" title="PELock Software Licensing">PELock Software Licensing</a>
+
+
+---
+
 If you want to support the development of Keystone project, please consider donating so we can spend more time to work on it.
 
 You can either donate via *Paypal* or send us *Bitcoins*.
@@ -15,7 +28,7 @@ You can either donate via *Paypal* or send us *Bitcoins*.
 - Bitcoin: <font color="#E65C00">1fGz2GYSjiJxUoACpsHXcGmaAhbEDTuWi</font> ([link](bitcoin:1fGz2GYSjiJxUoACpsHXcGmaAhbEDTuWi?message=donation))
 
 <br>
-To thank your support, we will send you some cool stickers like below.
+To thank you, we will send you some cool stickers like below.
 
 <center>
 <img src="/images/keystone-sticker.png" alt="Keystone sticker" width="200" />
