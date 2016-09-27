@@ -28,7 +28,7 @@ Sometimes we want to patch the binary while analyzing it in IDA, but unfortunate
 - The X86 assembler is not in a good shape, either: it cannot understand many modern Intel instructions.
 - This tool is not friendly and without many options that would make reverser's life easier.
 
-Keypatch was developed to solve this problem. Thanks to the power of [Keystone](http://keystone-engine.org), our plugin offers some nice features.
+Keypatch was developed to solve the above problems. Thanks to the power of [Keystone](http://keystone-engine.org), our plugin offers some superior features.
 
 - More friendly & easier to use.
 - Cross-architecture: support Arm, Arm64 (AArch64/Armv8), Hexagon, Mips, PowerPC, Sparc, SystemZ & X86 (include 16/32/64bit).
