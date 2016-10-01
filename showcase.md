@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **21** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **22** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -49,6 +49,8 @@ In our knowledge, Keystone has been used by **21** following products (listed in
 - [Pymetamorph](https://github.com/JuanJMarques/pymetamorph): Metamorphic engine in Python for Windows executables.
 
 - [Ropstone](https://github.com/blasty/ropstone): A basic ROP/gadget finder.
+
+- [asm_buddy](https://github.com/karttoon/asm_buddy): Small script to assemble/disassemble from CLI.
 
 ---
 
