@@ -120,6 +120,8 @@ It is easiest to just download & install Python 2.7 module for Windows from [htt
 
 If you prefer to compile from source, just use MSVC 32-bit & follow the instructions in [Windows documentation](https://github.com/keystone-engine/keystone/blob/master/docs/COMPILE-WINDOWS.md) to build `keystone.dll`. After that, install Python module as in [Python documentation](https://github.com/keystone-engine/keystone/blob/master/bindings/python/README.md). Then copy `keystone.dll` to the directory of Keystone Python module.
 
+In case you did all the above steps, but IDA still complains "fail to load the dynamic library", then copy the whole directory `keystone` at `C:\Python27\Lib\site-packages\keystone` to `C:\Program Files (x86)\IDA 6.8\python`, so you have directory `C:\Program Files (x86)\IDA 6.8\python\keystone` after that (Use your actual IDA directory instead).
+
 #### A2. MacOS
 
 Install the core & Python module of Keystone with the following command:
