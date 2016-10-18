@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **24** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **25** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -55,6 +55,8 @@ In our knowledge, Keystone has been used by **24** following products (listed in
 - [Nemezisv3](https://github.com/At0m0s/nemezisv3): A GUI tool to convert hex-string to assembly and vice versa.
 
 - [Stoneb0t](https://github.com/polymorf/stoneb0t): IRC bot providing assemble / disassemble for various architectures.
+
+- [GCTF-Challenges](https://github.com/DISMGryphon/GCTF-Challenges/tree/master/challs/programming/forest): An assembly based puzzle at GryphonCTF 2016.
 
 ---
 
