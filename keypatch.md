@@ -43,7 +43,7 @@ Keypatch can be the missing piece in your toolset of reverse engineering.
 
 ### 2. Install
 
-- Install [32-bit version of Keystone core & its Python binding](https://github.com/keystone-engine/keystone/releases/download/0.9.1/keystone-0.9.1-python-win32.msi) for Python 2.7. Or follow the steps in the [appendix section](#appendix-install-keystone-for-ida-pro).
+- Follow the steps in the [appendix section](#appendix-install-keystone-for-ida-pro) to install Python binding of [Keystone assembler](http://keystone-engine.org/download).
 
 - Copy file `keypatch.py` to IDA Plugin folder, then restart IDA Pro to use Keypatch.
     - On Windows, the folder is at `C:\Program Files (x86)\IDA 6.9\plugins`
