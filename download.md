@@ -42,7 +42,7 @@ This is the recommended version for all platforms.
 NOTE:
 
 - This is necessary for all bindings (except Python) & also for C programming.
-- if Keystone reports an error message like "fail to load the dynamic library", then you may need to install [Microsoft VC++ runtime library](https://www.microsoft.com/en-gb/download/details.aspx?id=40784)
+- If Keystone reports an error like "fail to load the dynamic library", then you may need to install [Microsoft VC++ runtime library](https://www.microsoft.com/en-gb/download/details.aspx?id=40784)
 
 This package contains:
 
