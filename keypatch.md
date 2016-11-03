@@ -43,7 +43,7 @@ Keypatch can be the missing piece in your toolset of reverse engineering.
 
 ### 2. Install
 
-- Install Keystone core & Python binding for Python 2.7 from [keystone-engine.org/download](http://keystone-engine.org/download). Or follow the steps in the [appendix section](#appendix-install-keystone-for-ida-pro).
+- Install [32-bit version of Keystone core & its Python binding](https://github.com/keystone-engine/keystone/releases/download/0.9.1/keystone-0.9.1-python-win32.msi) for Python 2.7. Or follow the steps in the [appendix section](#appendix-install-keystone-for-ida-pro).
 
 - Copy file `keypatch.py` to IDA Plugin folder, then restart IDA Pro to use Keypatch.
     - On Windows, the folder is at `C:\Program Files (x86)\IDA 6.9\plugins`
@@ -51,8 +51,8 @@ Keypatch can be the missing piece in your toolset of reverse engineering.
     - On Linux, the folder may be at `/opt/IDA/plugins/`
 
 `NOTE`
-- On Windows, if you get an error message from IDA about "fail to load the dynamic library", then your machine may miss the VC++ runtime library. Fix that by downloading & installing it from [Microsoft website](https://www.microsoft.com/en-gb/download/details.aspx?id=40784)
 
+- On Windows, if you get an error message from IDA about "fail to load the dynamic library", then your machine may miss the VC++ runtime library. Fix that by downloading & installing it from [Microsoft website](https://www.microsoft.com/en-gb/download/details.aspx?id=40784)
 - On other \*nix platforms, the above error message means you do not have 32-bit Keystone installed yet. See [appendix section](#appendix-install-keystone-for-ida-pro) below for more instructions to fix this.
 
 
