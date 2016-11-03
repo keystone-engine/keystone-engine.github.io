@@ -40,6 +40,7 @@ This is the recommended version for all platforms.
 <a class="download" href="https://github.com/keystone-engine/keystone/releases/download/{{ post.title }}/keystone-{{ post.title }}-win32.zip" title="Download Win32 Binaries (ZIP)">Win-32</a>
 
 NOTE:
+
 - This is necessary for all bindings (except Python) & also for C programming.
 - if Keystone reports an error message like "fail to load the dynamic library", then you may need to install [Microsoft VC++ runtime library](https://www.microsoft.com/en-gb/download/details.aspx?id=40784)
 
