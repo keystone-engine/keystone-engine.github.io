@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **26** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **27** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -59,6 +59,8 @@ In our knowledge, Keystone has been used by **26** following products (listed in
 - [GCTF-Challenges](https://github.com/DISMGryphon/GCTF-Challenges/tree/master/challs/programming/forest): An assembly based puzzle at GryphonCTF 2016.
 
 - [VulcanoIO](http://vulcanoio.org): Open Source Cluster IOTs for Reverse Engineering Malware.
+
+- [Proctal](https://github.com/daniel-araujo/proctal): Manipulates the address space of a running program on Linux.
 
 ---
 
