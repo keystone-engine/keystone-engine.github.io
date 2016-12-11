@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **30** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **31** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -67,6 +67,8 @@ In our knowledge, Keystone has been used by **30** following products (listed in
 - [Alfredworkflow-Capkeystone](https://github.com/alexhude/alfredworkflow-capkeystone): Alfred Workflow to convert hex string to assembly and vice versa.
 
 - [Trace](https://github.com/dutchcoders/trace): System tracer implementation in Rust.
+
+- [Chiasm-shell](https://github.com/0xbc/chiasm-shell): Python-based interactive assembler/disassembler CLI.
 
 ---
 
