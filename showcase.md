@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **31** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **32** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -69,6 +69,8 @@ In our knowledge, Keystone has been used by **31** following products (listed in
 - [Trace](https://github.com/dutchcoders/trace): System tracer implementation in Rust.
 
 - [Chiasm-shell](https://github.com/0xbc/chiasm-shell): Python-based interactive assembler/disassembler CLI.
+
+- [Dispatch](https://github.com/isislab/dispatch): Programmatic disassembly and patching.
 
 ---
 
