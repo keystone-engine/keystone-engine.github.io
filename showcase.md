@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **32** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **33** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -71,6 +71,8 @@ In our knowledge, Keystone has been used by **32** following products (listed in
 - [Chiasm-shell](https://github.com/0xbc/chiasm-shell): Python-based interactive assembler/disassembler CLI.
 
 - [Dispatch](https://github.com/isislab/dispatch): Programmatic disassembly and patching.
+
+- [PEDetour](https://github.com/chen-charles/PEDetour): Modify Portable Executable file to hook its export functions
 
 ---
 
