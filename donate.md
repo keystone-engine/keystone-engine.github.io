@@ -17,6 +17,7 @@ Below is all the Keystone supporters who generously made donation (listed in no 
 - <a href="https://www.pelock.com" title="PELock Software Licensing">PELock Software Licensing</a>
 - Ilfak Guilfanov ([Hex-Rays](https://www.hex-rays.com))
 - Triszka Balázs
+- Anders Fogh
 
 ---
 
