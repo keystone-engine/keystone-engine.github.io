@@ -5,14 +5,14 @@ permalink: /keypatch/
 ---
 
 Keypatch is [the award winning plugin](https://www.hex-rays.com/contests/2016/index.shtml) of [IDA Pro](https://www.hex-rays.com/products/ida/) for [Keystone Assembler Engine](http://keystone-engine.org).
-See [this introduction](/keypatch0) for the motivation behind Keypatch, and [this slides](http://keystone-engine.org/keypatch/Keypatch-slides.pdf) for how it is implemented.
+See [this introduction](/keypatch0) for the motivation behind Keypatch, and [this slides](http://keystone-engine.org/keypatch/Keypatch-slides.pdf) for how it is implemented. A quick [tutorial](/keypatch/tutorial) is also available.
 
-[Keypatch v2.0.1](https://github.com/keystone-engine/keypatch/archive/2.0.1.zip) is available from our [Github repo](https://github.com/keystone-engine/keypatch).
+[Keypatch v2.1](https://github.com/keystone-engine/keypatch/archive/2.1.zip) is available from our [Github repo](https://github.com/keystone-engine/keypatch).
 
 This offers 3 tools inside.
 
 - **Patcher** & **Fill Range**: these allow you to type in assembly to directly patch your binary.
-- **Assembler**: this interactive tool let you enter assembly & get back instruction encoding.
+- **Search**: this interactive tool let you search for assembly instructions in binary.
 
 Keypatch is confirmed to work on IDA Pro version 6.4, 6.5, 6.6, 6.8, 6.9, 6.95 but should work flawlessly on older versions.
 If you find any issues, please [report](http://keystone-engine.org/contact).
@@ -82,12 +82,13 @@ Keypatch can be the missing piece in your toolset of reverse engineering.
 </p>
 
 - To revert (undo) the last patching, choose menu `Edit | Keypatch | Undo last patching`.
-- To do some code assembling (without overwritting binary), open **Keypatch Assembler** from menu `Edit | Keypatch | Assembler`.
-    - Choose the architecture, address, endian mode & syntax, then type assembly instruction in the `Assembly` box.
+- To search for assembly instructions (without overwritting binary), open **Keypatch Search** from menu `Edit | Keypatch | Search`.
+    - Choose the architecture, address, endian mode & syntax, then type assembly instructions in the `Assembly` box.
     - Keypatch would *automatically* update the encoding in the `Encode` box while you are typing, without waiting for `ENTER` keystroke.
+    - When you click `Search` button, Keypatch would look for all the occurences of the instructions, and show the result in a new form.
 
 <p align="center">
-<img src="/keypatch/keypatch_assembler.png" height="400" />
+<img src="/keypatch/keypatch_search.png" height="400" />
 </p>
 
 - To check for new version of Keypatch, choose menu `Edit | Keypatch | Check for update`.
