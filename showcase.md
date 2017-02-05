@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **35** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **36** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -77,6 +77,8 @@ In our knowledge, Keystone has been used by **35** following products (listed in
 - [Stonesh](https://bitbucket.org/Azertinv/stonesh): Command interpreter for Keystone and Capstone designed to be an alternative to ks/cstool.
 
 - [Ratone](https://github.com/danigargu/ratone): A console for assemble/disassemble code using Capstone/Keystone.
+
+- [Unicorn.JS demo](https://alexaltea.github.io/unicorn.js/index.html): Demo of Unicorn emulator in JavaScript.
 
 ---
 
