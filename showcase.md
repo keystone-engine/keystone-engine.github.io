@@ -80,7 +80,7 @@ In our knowledge, Keystone has been used by **37** following products (listed in
 
 - [Unicorn.JS demo](https://alexaltea.github.io/unicorn.js/index.html): Demo of Unicorn emulator in JavaScript.
 
-- [SECCON2016_online_CTF](https://github.com/SECCON/SECCON2016_online_CTF): Online CTF game (Binary 400, Ropsynth).
+- [SECCON2016 CTF](https://github.com/SECCON/SECCON2016_online_CTF): Online CTF game (Binary 400, Ropsynth).
 
 ---
 
