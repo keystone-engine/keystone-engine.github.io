@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **38** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **39** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -83,6 +83,8 @@ In our knowledge, Keystone has been used by **38** following products (listed in
 - [SECCON2016 CTF](https://github.com/SECCON/SECCON2016_online_CTF): Online CTF game (Binary 400, Ropsynth).
 
 - [AsmBot](https://github.com/Becojo/asmbot): Slack bot to assemble and disassemble using Capstone and Keystone.
+
+- [Kcapys](https://github.com/hugsy/stuff/blob/master/kcapys.py): Patch all calls to a function ELF file with NOPs.
 
 ---
 
