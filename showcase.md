@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **36** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **37** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -79,6 +79,8 @@ In our knowledge, Keystone has been used by **36** following products (listed in
 - [Ratone](https://github.com/danigargu/ratone): A console for assemble/disassemble code using Capstone/Keystone.
 
 - [Unicorn.JS demo](https://alexaltea.github.io/unicorn.js/index.html): Demo of Unicorn emulator in JavaScript.
+
+- [AsmBot](https://github.com/Becojo/asmbot): Slack bot to assemble and disassemble using Capstone and Keystone.
 
 ---
 
