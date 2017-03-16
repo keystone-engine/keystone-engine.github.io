@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **42** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **43** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -91,6 +91,8 @@ In our knowledge, Keystone has been used by **42** following products (listed in
 - [cgPwn](https://github.com/0xM3R/cgPwn): Cyber Grand Pwnage Box.
 
 - [inVtero.net](https://github.com/ShaneK2/inVtero.net): Find/Extract processes, hypervisors in memory dumps using microarchitechture independent Virtual Machiene Introspection techniques.
+
+- [Pwning-tools](https://github.com/peternguyen93/pwning-tools): A small library that help CTFer quickly write payload.
 
 
 ---
