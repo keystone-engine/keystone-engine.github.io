@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **46** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **47** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -99,6 +99,9 @@ In our knowledge, Keystone has been used by **46** following products (listed in
 - [Botox](https://github.com/devttys0/botox): SIGSTOPing ELF binaries since 0x7E1.
 
 - [AsmHelper](https://github.com/javerous/AsmHelper): A MacOS tool to help convert machine code to assembly and vice versa.
+
+- [Manticore](https://github.com/trailofbits/manticore): Dynamic binary analysis tool.
+
 
 ---
 
