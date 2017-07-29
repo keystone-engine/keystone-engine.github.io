@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **48** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **49** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -103,6 +103,9 @@ In our knowledge, Keystone has been used by **48** following products (listed in
 - [Manticore](https://github.com/trailofbits/manticore): Dynamic binary analysis tool.
 
 - [JSRT](https://github.com/tinysec/jsrt): Javascript Runtime for Windows, based on Chakra.
+
+- [Fido](https://github.com/secretsquirrel/fido): Teaching old shellcode new tricks.
+
 
 ---
 
