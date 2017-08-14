@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **50** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **51** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -107,6 +107,8 @@ In our knowledge, Keystone has been used by **50** following products (listed in
 - [Fido](https://github.com/secretsquirrel/fido): Teaching old shellcode new tricks.
 
 - [Online Assembler & Disassembler](http://shell-storm.org/online/Online-Assembler-and-Disassembler/): Online Assembler and Disassembler.
+
+- [WinREPL](https://github.com/zerosum0x0/WinREPL): x86 and x64 assembly "read-eval-print loop" for Windows.
 
 ---
 
