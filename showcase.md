@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **52** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **53** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -111,6 +111,8 @@ In our knowledge, Keystone has been used by **52** following products (listed in
 - [WinREPL](https://github.com/zerosum0x0/WinREPL): x86 and x64 assembly "read-eval-print loop" for Windows.
 
 - [Rassembler](https://github.com/zachweed/rassembler): Assembly REPL written in Ruby
+
+- [Asemu](https://github.com/Rewzilla/asemu): 32-bit x86 emulator using ncurses and Capstone/Keystone/Unicorn.
 
 ---
 
