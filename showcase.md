@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **54** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **55** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -115,6 +115,8 @@ In our knowledge, Keystone has been used by **54** following products (listed in
 - [Asemu](https://github.com/Rewzilla/asemu): 32-bit x86 emulator using ncurses and Capstone/Keystone/Unicorn.
 
 - [Pwntools-Ruby](https://github.com/peter50216/pwntools-ruby): Pwntools on Ruby.
+
+- [Sam-RS](https://github.com/ioncodes/sam-rs): Rust compiler plugin for compile time instruction assembling.
 
 ---
 
