@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **56** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **57** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -120,6 +120,7 @@ In our knowledge, Keystone has been used by **56** following products (listed in
 
 - [Resonance](https://github.com/krystalgamer/Resonance): A C polymorphic and metamorphic engine.
 
+- [Shellen](https://github.com/merrychap/shellen): Interactive shellcoding environment to easily craft shellcodes.
 
 ---
 
