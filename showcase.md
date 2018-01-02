@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **59** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **60** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -125,6 +125,9 @@ In our knowledge, Keystone has been used by **59** following products (listed in
 - [Capstone2LLVMIR](https://github.com/avast-tl/capstone2llvmir): Library for Capstone instruction to LLVM IR translation.
 
 - [Capstone-Dumper](https://github.com/avast-tl/capstone-dumper): Utility for dumping all the information Capstone has on given instructions.
+
+- [PEPatch](https://github.com/marche147/pepatch): A hacky tool to patch PE binaries.
+
 
 ---
 
