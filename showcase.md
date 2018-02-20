@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **60** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **62** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -128,6 +128,9 @@ In our knowledge, Keystone has been used by **60** following products (listed in
 
 - [PEPatch](https://github.com/marche147/pepatch): A hacky tool to patch PE binaries.
 
+- [PE-EP-Intercept](https://github.com/raffclar/pe_ep_intercept): Experimental binary patching on executables.
+
+- [Mutator](https://bloodstalker.github.io/mutator/): Suite of tools aimed at analysis and automation of C/C++ code development.
 
 ---
 
