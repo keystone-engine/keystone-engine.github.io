@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **63** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **64** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -133,6 +133,8 @@ In our knowledge, Keystone has been used by **63** following products (listed in
 - [Mutator](https://bloodstalker.github.io/mutator/): Suite of tools aimed at analysis and automation of C/C++ code development.
 
 - [Ecos_gdb](https://github.com/robidev/ecos_gdb): A debugger written in assembly to allow serial and tcp based debugging of ECOS firmware.
+
+- [Mega](https://github.com/0xs4r/mega): ELF binary obfuscator.
 
 ---
 
