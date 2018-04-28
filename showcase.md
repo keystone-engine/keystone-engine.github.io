@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **65** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **66** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -137,6 +137,8 @@ In our knowledge, Keystone has been used by **65** following products (listed in
 - [Mega](https://github.com/0xs4r/mega): ELF binary obfuscator.
 
 - [LLDBinit](https://github.com/gdbinit/lldbinit): A gdbinit clone for LLDB.
+
+- [Crave](https://github.com/necst/crave): Framework to automatically test and explore the capabilities of generic AV engines.
 
 ---
 
