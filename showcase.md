@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **66** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **68** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -139,6 +139,10 @@ In our knowledge, Keystone has been used by **66** following products (listed in
 - [LLDBinit](https://github.com/gdbinit/lldbinit): A gdbinit clone for LLDB.
 
 - [Crave](https://github.com/necst/crave): Framework to automatically test and explore the capabilities of generic AV engines.
+
+- [Avatar2](https://github.com/avatartwo/avatar2): Python core of Avatar2.
+
+- [Xiaomi M365 Firmware Patcher](https://github.com/BotoX/xiaomi-m365-firmware-patcher): Automatize patching of Xiaomi Mijia M365 electric scooter firmware.
 
 ---
 
