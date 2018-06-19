@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **70** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **73** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -147,6 +147,12 @@ In our knowledge, Keystone has been used by **70** following products (listed in
 - [crAVe](https://github.com/necst/crave): Framework to automatically test and explore the capabilities of generic AV engines.
 
 - [Haxm](https://github.com/intel/haxm): Intel® Hardware Accelerated Execution Manager (Intel® HAXM).
+
+- [PwIN](https://github.com/zhechkoz/PwIN): Security Evaluation of Dynamic Binary Instrumentation Engines.
+
+- [iLo4 toolbox](https://github.com/airbus-seclab/ilo4_toolbox): Toolbox for HPE iLO4 analysis.
+
+- [DBGHider](https://github.com/iweizime/DBGHider): An IDA plugin to hide debugger from processes.
 
 
 ---
