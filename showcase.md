@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **74** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **75** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -155,6 +155,9 @@ In our knowledge, Keystone has been used by **74** following products (listed in
 - [DBGHider](https://github.com/iweizime/DBGHider): An IDA plugin to hide debugger from processes.
 
 - [Binja secret](https://github.com/iGio90/binja-secret): Binary Ninja plugin that encapsulate Frida, Unicorn, Capstone and Keystone.
+
+- [Deen](https://github.com/takeshixx/deen): Generic data encoding/decoding application built with PyQt5.
+
 
 ---
 
