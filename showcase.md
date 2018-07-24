@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **76** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **77** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -159,6 +159,9 @@ In our knowledge, Keystone has been used by **76** following products (listed in
 - [Deen](https://github.com/takeshixx/deen): Generic data encoding/decoding application built with PyQt5.
 
 - [Dbghlpr](https://github.com/dbghlpr/dbghlpr): API for analyzing processes.
+
+- [Invade](https://github.com/cgio/invade): A library for interacting with Windows process memory.
+
 
 ---
 
