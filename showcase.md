@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **78** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **79** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -163,6 +163,9 @@ In our knowledge, Keystone has been used by **78** following products (listed in
 - [Invade](https://github.com/cgio/invade): A library for interacting with Windows process memory.
 
 - [Xiaomi Mijia M365 Custom Firmware Toolkit](https://github.com/BotoX/xiaomi-m365-firmware-patcher): Automatize patching of Xiaomi Mijia M365 electric scooter firmware.
+
+- [REBot](https://github.com/Cryptogenic/REBot): A Discord bot for reverse engineers and exploit developers.
+
 
 ---
 
