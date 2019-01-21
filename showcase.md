@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **80** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **81** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -167,6 +167,8 @@ In our knowledge, Keystone has been used by **80** following products (listed in
 - [REBot](https://github.com/Cryptogenic/REBot): A Discord bot for reverse engineers and exploit developers.
 
 - [Hyara](https://github.com/hy00un/Hyara): Yara rule making tool (IDA Plugin).
+
+- [crAVe](https://github.com/necst/crave): Framework to automatically test and explore the capabilities of generic AV engines.
 
 
 ---
