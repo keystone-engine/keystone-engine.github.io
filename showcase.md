@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **81** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **79** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -144,8 +144,6 @@ In our knowledge, Keystone has been used by **81** following products (listed in
 
 - [Xiaomi M365 Firmware Patcher](https://github.com/BotoX/xiaomi-m365-firmware-patcher): Automatize patching of Xiaomi Mijia M365 electric scooter firmware.
 
-- [crAVe](https://github.com/necst/crave): Framework to automatically test and explore the capabilities of generic AV engines.
-
 - [Haxm](https://github.com/intel/haxm): Intel® Hardware Accelerated Execution Manager (Intel® HAXM).
 
 - [PwIN](https://github.com/zhechkoz/PwIN): Security Evaluation of Dynamic Binary Instrumentation Engines.
@@ -167,8 +165,6 @@ In our knowledge, Keystone has been used by **81** following products (listed in
 - [REBot](https://github.com/Cryptogenic/REBot): A Discord bot for reverse engineers and exploit developers.
 
 - [Hyara](https://github.com/hy00un/Hyara): Yara rule making tool (IDA Plugin).
-
-- [crAVe](https://github.com/necst/crave): Framework to automatically test and explore the capabilities of generic AV engines.
 
 
 ---
