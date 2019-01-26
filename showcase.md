@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **79** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **80** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -166,6 +166,7 @@ In our knowledge, Keystone has been used by **79** following products (listed in
 
 - [Hyara](https://github.com/hy00un/Hyara): Yara rule making tool (IDA Plugin).
 
+- [ShellcodeCompiler](https://github.com/NytroRST/ShellcodeCompiler): Shellcode compiler.
 
 ---
 
