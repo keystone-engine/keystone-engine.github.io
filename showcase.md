@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **81** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **82** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -169,6 +169,8 @@ In our knowledge, Keystone has been used by **81** following products (listed in
 - [ShellcodeCompiler](https://github.com/NytroRST/ShellcodeCompiler): Shellcode compiler.
 
 - [Zephyrus](https://github.com/Iciclez/Zephyrus): A sophisticated memory library used to dynamically hook and edit memory, allowing pre-compiled code to be rewritten.
+
+- [xdvre](https://github.com/xdvre/xdvre): A disassembler/debugger that works based on the extension plugin.
 
 
 ---
