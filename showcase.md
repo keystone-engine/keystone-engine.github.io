@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **82** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **85** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -171,6 +171,13 @@ In our knowledge, Keystone has been used by **82** following products (listed in
 - [Zephyrus](https://github.com/Iciclez/Zephyrus): A sophisticated memory library used to dynamically hook and edit memory, allowing pre-compiled code to be rewritten.
 
 - [xdvre](https://github.com/xdvre/xdvre): A disassembler/debugger that works based on the extension plugin.
+
+- [Memory-Analyzer](https://github.com/Iciclez/Memory-Analyzer): A loadable dll intended to track memory changes and dynamically emplaced "JMP" in the host executable.
+
+- [DJI firmware tools](https://github.com/o-gs/dji-firmware-tools): Tools for handling firmwares of DJI products, with focus on quadcopters.
+
+- [AssemblyPlayground](https://github.com/flashspys/AssemblyPlayground): A playground for x86 and ARM Assembly.
+
 
 
 ---
