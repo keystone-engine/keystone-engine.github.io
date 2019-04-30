@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **85** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **86** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -178,6 +178,7 @@ In our knowledge, Keystone has been used by **85** following products (listed in
 
 - [AssemblyPlayground](https://github.com/flashspys/AssemblyPlayground): A playground for x86 and ARM Assembly.
 
+- [ARMStrong](https://github.com/linouxis9/ARMStrong): A fast and simple ARM Simulator made for education.
 
 
 ---
