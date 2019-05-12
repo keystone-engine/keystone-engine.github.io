@@ -6,7 +6,7 @@ permalink: /showcase/
 
 ## Showcase
 
-In our knowledge, Keystone has been used by **86** following products (listed in no particular order).
+In our knowledge, Keystone has been used by **92** following products (listed in no particular order).
 
 - [Keypatch](http://keystone-engine.org/keypatch): IDA Pro plugin for code assembling & binary patching.
 
@@ -179,6 +179,18 @@ In our knowledge, Keystone has been used by **86** following products (listed in
 - [AssemblyPlayground](https://github.com/flashspys/AssemblyPlayground): A playground for x86 and ARM Assembly.
 
 - [ARMStrong](https://github.com/linouxis9/ARMStrong): A fast and simple ARM Simulator made for education.
+
+- [DeSW](https://github.com/dustnn/DeSW): Just a simple De-switcher.
+
+- [PyASM](https://github.com/MosheWagner/PyASM): Fiddle with x86 and x64 asm from Python.
+
+- [TriggerBug](https://github.com/notify-bibi/TriggerBug): Fast-Symbolic-Emulation-Engine.
+
+- [Pegasus](https://github.com/0a777h/pegasus): Windbg emulation plugin.
+
+- [elf-mlsploit](https://github.com/jinhojun/elf-mlsploit): Mlsploit module for perturbing ELF binary (direct call to indirect call).
+
+- [xdvre](https://github.com/xdvre/xdvre): Disassembler or debugger that works based on the extension plugin.
 
 
 ---
