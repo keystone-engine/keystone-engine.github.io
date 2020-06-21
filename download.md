@@ -57,13 +57,20 @@ This package contains:
 
 ### Python module for Windows - Binaries <img src="/images/python.png" height="28" width="28"> <img src="/images/windows.png" height="28" width="28">
 
-<a class="download" href="https://github.com/keystone-engine/keystone/releases/download/{{ post.title }}/keystone-{{ post.title }}-python-win32.msi" title="Download Python module for Python, Win32">Python-32</a>
+With `pip` (or `pip3` for Python 3 users), you can easily install Python module for either Windows, MacOS or Linux.
 
-NOTE: since this installer is self-contain, no need to install the core engine above.
+{% highlight bash %}
+pip install keystone-engine
+{% endhighlight %}
 
-This will install Keystone module into your corresponding Python edition.
+In case you wish to upgrade from older version of Keystone, do:
 
-<a class="download" href="https://github.com/keystone-engine/keystone/releases/download/{{ post.title }}/keystone-{{ post.title }}-python-win64.msi" title="Download Python module for Python, Win64">Python-64</a>
+{% highlight bash %}
+pip install keystone-engine --upgrade
+{% endhighlight %}
+
+Remember to stick "sudo" in front for root privilege if needed.
+
 
 ---
 
