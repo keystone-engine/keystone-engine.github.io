@@ -14,7 +14,7 @@ This offers 3 tools inside.
 - **Patcher** & **Fill Range**: these allow you to type in assembly to directly patch your binary.
 - **Search**: this interactive tool let you search for assembly instructions in binary.
 
-Keypatch is confirmed to work on IDA Pro version 6.4, 6.5, 6.6, 6.8, 6.9, 6.95 but should work flawlessly on older versions.
+Keypatch is confirmed to work on IDA Pro version 6.4, 6.5, 6.6, 6.8, 6.9, 6.95, 7.0, 7.5 but should work flawlessly on older versions.
 If you find any issues, please [report](http://keystone-engine.org/contact).
 
 
