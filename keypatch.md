@@ -116,7 +116,7 @@ For future update of Keypatch, follow our Twitter [@keystone_engine](https://twi
 IDA Pro's Python is 32-bit itself, so it can only loads 32-bit libraries. For this reason, we have to build & install Keystone 32-bit. Simply install from Pypi, with pip (32-bit), like followings:
 
 {% highlight bash %}
-pip install keystone-engine --pre
+pip install keystone-engine
 {% endhighlight %}
 
 Done? Now go back to [section 2](#2-install) & install Keypatch for IDA Pro. Enjoy!
