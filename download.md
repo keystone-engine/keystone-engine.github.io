@@ -55,7 +55,7 @@ This package contains:
 
 ---
 
-### Python module for Windows - Binaries <img src="/images/python.png" height="28" width="28"> <img src="/images/windows.png" height="28" width="28">
+### Python module for Windows/MacOS/Linux - Binaries <img src="/images/python.png" height="28" width="28">
 
 With `pip` (or `pip3` for Python 3 users), you can easily install Python module for either Windows, MacOS or Linux.
 
